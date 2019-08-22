@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">801073413_inclass06</string>
+    <string name="tvshowcategory">Show Categories</string>
+    <string name="buttongo">GO</string>
+    <string name="no_internet">No Internet</string>
+    <string name="tvload">Loading...</string>
+</resources>
