@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">hw3_grp3</string>
+    <string name="switchprice">Price</string>
+    <string name="switchdate">Date</string>
+    <string name="tvlimit">Limit</string>
+    <string name="buttonsearch">Search</string>
+    <string name="buttonreset">Reset</string>
+    <string name="tvsortby">Sort by</string>
+    <string name="tvresult">Results</string>
+    <string name="tvloading">Loading</string>
+    <string name="no_internet">No Internet</string>
+    <string name="tvtrack">Track</string>
+    <string name="tvgenre">Genre</string>
+    <string name="tvartist">Artist</string>
+    <string name="tvalbum">Album</string>
+    <string name="tvtrackprice">Track Price</string>
+    <string name="tvalbumprice">Album Price</string>
+
+</resources>
