@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Group02_HW02</string>
+    <string name="title_activity_generated_password">GeneratedPassword</string>
+    <string name="finishbutton">Finish</string>
+    <string name="Threadheading">For Thread</string>
+    <string name="thrdpwdcount">Select Password Count:</string>
+    <string name="thrdpwdlen">Select Password length:</string>
+    <string name="genpwd">Generating Passwords:</string>
+    <string name="asyncheading">For AsyncTask:</string>
+    <string name="asyncpwdcnt">Select Password Count:</string>
+    <string name="asyncpwdlen">Select Password length:</string>
+    <string name="generatebutton">Generate</string>
+    <string name="scrollthrdheading">Passwords Generated using Thread:</string>
+    <string name="scrollasyncheading">Passwords Generated using Async:</string>
+</resources>
